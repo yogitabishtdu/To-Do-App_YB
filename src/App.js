@@ -49,6 +49,7 @@ function App() {
   return (
     <div className="App">
       <div>
+        <h1>New list</h1>
         <label>
           Enter item name : {"  "}:
           <input
